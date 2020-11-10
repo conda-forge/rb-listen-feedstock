@@ -1,5 +1,5 @@
 {% set name = "listen" %}
-{% set version = "3.2.1" %}
+{% set version = "3.3.0" %}
 
 package:
   name: rb-{{ name|lower }}
@@ -7,7 +7,7 @@ package:
 
 source:
   url: https://rubygems.org/downloads/{{ name }}-{{ version }}.gem
-  sha256: f15106ac36904b27b7540259df8596ec0d685be10d6b05fc8cfe8dd82a1f22f1
+  sha256: 0f91c5287358feee216f41e00a5b70ec125dd5c1d8fe51a014e864a29842041f
 
 build:
   noarch: generic
