@@ -5,11 +5,13 @@ Home: https://rubygems.org/gems/listen
 
 Package license: MIT
 
-Feedstock license: BSD 3-Clause
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/rb-listen-feedstock/blob/master/LICENSE.txt)
 
 Summary: The Listen gem listens to file modifications and notifies you about the changes. Works everywhere!
 
+Development: https://github.com/guard/listen
 
+Documentation: http://www.rubydoc.info/gems/listen
 
 Current build status
 ====================
